@@ -1,0 +1,3 @@
+<html>
+<applet code="appl.class" hight="300" weidth="300"></applet> 
+</html>
